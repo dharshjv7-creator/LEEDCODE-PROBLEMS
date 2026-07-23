@@ -1,5 +1,3 @@
-import java.util.HashSet;
-
 class Solution {
     public int numJewelsInStones(String jewels, String stones) {
         HashSet<Character> set = new HashSet<>();
